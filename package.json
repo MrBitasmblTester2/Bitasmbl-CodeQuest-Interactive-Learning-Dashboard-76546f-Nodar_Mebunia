@@ -1,0 +1,8 @@
+{
+  "name": "codequest-dashboard",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": { "dev": "vite" },
+  "dependencies": { "vue": "^3.3.0", "chart.js": "^4.4.0" },
+  "devDependencies": { "vite": "^5.0.0", "@vitejs/plugin-vue": "^5.0.0" }
+}
